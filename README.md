@@ -26,7 +26,7 @@ Full-stack developer with a passion for building innovative, cutting-edge applic
   
  * 🌍  I'm based in Ottawa 
  * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)
- * 🚀  I'm currently working on [Sums](http://https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) 
+ * 🚀  I'm currently working on [Sums](https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) 
  * 🧠  I'm learning AWS 
  * 🤝  I'm open to collaborating on Open-Source Projects
  * ⚡  The best way to predict the future is to invent it with code.
