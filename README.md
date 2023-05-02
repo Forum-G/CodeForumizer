@@ -24,8 +24,8 @@ If you'd like to have a conversation about something that interests you, go ahea
 
 Full-stack developer with a passion for building innovative, cutting-edge applications across both web and mobile platforms. Specializing in developing user-centric applications that are as beautiful as they are functional. Committed to constantly pushing the boundaries of what's possible in software development. When not coding, I enjoy brewing coffee and exploring new hiking trails.
   
- # 💫 About Me:
- * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)<br> * 🚀  I'm currently working on [Sums](https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) <br> * 🧠  I'm learning AWS <br> * 🤝  I'm open to collaborating on Open-Source Projects <br> * ⚡  The best way to predict the future is to invent it with code.
+ # 💫 About Me:  
+ <br> * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)<br> * 🚀  I'm currently working on [Sums](https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) <br> * 🧠  I'm learning AWS <br> * 🤝  I'm open to collaborating on Open-Source Projects <br> * ⚡  The best way to predict the future is to invent it with code.
 
 
 ## 🌐 Socials:
