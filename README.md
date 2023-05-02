@@ -25,7 +25,7 @@ If you'd like to have a conversation about something that interests you, go ahea
 Full-stack developer with a passion for building innovative, cutting-edge applications across both web and mobile platforms. Specializing in developing user-centric applications that are as beautiful as they are functional. Committed to constantly pushing the boundaries of what's possible in software development. When not coding, I enjoy brewing coffee and exploring new hiking trails.
   
  # 💫 About Me:
- * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)<br> * 🚀  I'm currently working on [Sums](https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) <br> * 🧠  I'm learning AWS <br> * 🤝  I'm open to collaborating on Open-Source Projects<br> * ⚡  The best way to predict the future is to invent it with code.
+ * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)<br> * 🚀  I'm currently working on [Sums](https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) <br> * 🧠  I'm learning AWS <br> * 🤝  I'm open to collaborating on Open-Source Projects <br> * ⚡  The best way to predict the future is to invent it with code.
 
 
 ## 🌐 Socials:
@@ -39,18 +39,15 @@ Full-stack developer with a passion for building innovative, cutting-edge applic
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForumizer&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeForumizer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CodeForumizer&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeForumizer&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://github-contributor-stats.vercel.app/api?username=CodeForumizer&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeForumizer&icon=2&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CodeForumizer&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
