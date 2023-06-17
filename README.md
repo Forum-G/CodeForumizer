@@ -37,9 +37,6 @@ Full-stack developer with a passion for building innovative, cutting-edge applic
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForumizer&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeForumizer&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
