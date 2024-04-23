@@ -22,7 +22,7 @@ If you'd like to have a conversation about something that interests you, go ahea
   
 <a href="https://calendly.com/codeforumizer" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-Full-stack developer with a passion for building innovative, cutting-edge applications across both web and mobile platforms. Specializing in developing user-centric applications that are as beautiful as they are functional. Committed to constantly pushing the boundaries of what's possible in software development. When not coding, I enjoy brewing coffee and exploring new hiking trails.
+Software developer with a passion for building innovative, cutting-edge applications across both web and mobile platforms. Specializing in developing user-centric applications that are as beautiful as they are functional. Committed to constantly pushing the boundaries of what's possible in software development. When not coding, I enjoy brewing coffee and exploring new hiking trails.
   
  # 💫 About Me:  
  <br> * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)<br> * 🚀  I'm currently working on [Sumz](https://644f14c379d55236742bd49b--coruscating-flan-c81fae.netlify.app) <br> * 🧠  I'm learning AI <br> * 🤝  I'm open to collaborating on Open-Source Projects <br> * ⚡  The best way to predict the future is to invent it with code.
