@@ -25,7 +25,7 @@ If you'd like to have a conversation about something that interests you, go ahea
 Software developer with a passion for building innovative, cutting-edge applications across both web and mobile platforms. Specializing in developing user-centric applications that are as beautiful as they are functional. Committed to constantly pushing the boundaries of what's possible in software development. When not coding, I enjoy brewing coffee and exploring new hiking trails.
   
  # 💫 About Me:  
- <br> * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [codeforumizer@outlook.com](mailto:codeforumizer@outlook.com)<br> * 🚀  I'm currently working on building software solutions that matters for businesses <br> * 🧠  I'm learning AI <br> * 🤝  I'm open to collaborating on Open-Source Projects <br> * ⚡  The best way to predict the future is to invent it with code.
+ <br> * 🌍  I'm based in Canada <br> * ✉️  You can contact me at [forumgorawala@outlook.com](mailto:forumgorawala@outlook.com)<br> * 🚀  I'm currently working on building software solutions that matters for businesses <br> * 🧠  I'm learning AI <br> * 🤝  I'm open to collaborating on Open-Source Projects <br> * ⚡  The best way to predict the future is to invent it with code.
 
 
 ## 🌐 Socials:
